@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# Script Name: max_temperature.sh
+
 for year in all/*
 do
     echo -ne `basename $year .gz` "\t"
