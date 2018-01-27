@@ -1,8 +1,6 @@
 # hadooptest1
 
-A practice for mapReduce using book [The.Definitive.Guide](http://javaarm.com/file/apache/Hadoop/books/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015.pdf)
-
-#### page 21:
+A practice for mapReduce using the book [The Definitive Guide](http://javaarm.com/file/apache/Hadoop/books/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015.pdf) Page 21:
 
 ```
 /mnt/AGZ1/Hadoop_data/data_wether_gz/raw
