@@ -1,6 +1,7 @@
 # hadooptest1
 
-http://javaarm.com/file/apache/Hadoop/books/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015.pdf
+A practice for mapReduce using book [The.Definitive.Guide] (http://javaarm.com/file/apache/Hadoop/books/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015.pdf)
+
 #### page 21:
 
 ```
